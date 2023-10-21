@@ -119,7 +119,7 @@ a:hover {
   padding: 10px;
   text-align: center;
   font-size: 1.5rem;
-  color: black;
+  color: rgb(209, 231, 232);
   text-decoration: none;
   transition: all 0.3 ease-in-out;
 }
